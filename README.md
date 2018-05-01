@@ -1,6 +1,10 @@
 # AEM Dashboard
 
 Demo for this project: [Demo](http://aem-demo.sayuthi.xyz/).
+```
+login: admin@mail.com
+password: admin123
+```
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
